@@ -12,6 +12,14 @@ Antes de comenzar, asegúrate de tener los siguientes requisitos instalados en t
 - MySQL (v8.0 o superior)
 - Git (para descargar el repositorio)
 
+## Importante
+
+**Se necesita instalar todo lo necesario para que funcione React** 
+como template typescript
+npm install primereact primeicons axios
+
+Omitió dichos archivos tanto en githab y en la plataforma.
+
 ## Configuración de la Base de Datos
 
 1. **Descargar del Repositorio**
