@@ -17,7 +17,7 @@ Antes de comenzar, asegúrate de tener los siguientes requisitos instalados en t
 1. **Descargar del Repositorio**
 
    ```bash
-   git clone https://github.com/zbnt2410/Laboratorio3_Arias_Quezada.git
+   git clone https://github.com/zbnt2410/LaboratorioN3_Arias_Quezada.git
 
 2. **Ingresar en el directorio**   
    cd ...\Laboratorio3_Arias_Gribaldo_Quezada_Tania
