@@ -20,7 +20,7 @@ como template typescript
 
 npm install primereact primeicons axios
 
-Omitió dichos archivos tanto en githab y en la plataforma.
+Se Omitió dichos archivos tanto en githab y en la plataforma por cuestion de espacio.
 
 ## Configuración de la Base de Datos
 
