@@ -15,7 +15,9 @@ Antes de comenzar, asegúrate de tener los siguientes requisitos instalados en t
 ## Importante
 
 **Se necesita instalar todo lo necesario para que funcione React** 
+
 como template typescript
+
 npm install primereact primeicons axios
 
 Omitió dichos archivos tanto en githab y en la plataforma.
